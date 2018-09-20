@@ -1,0 +1,2 @@
+installar router -> npm install vue-router --save
+axios -> npm install axios --save
